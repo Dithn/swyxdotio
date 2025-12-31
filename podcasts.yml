@@ -1,5 +1,14 @@
 # 2025 podcasts
 
+
+
+- title: NeurIPS Show Me The Money panel with Tri Dao and Dylan Patel
+  slug: neurips-2025
+  tags: [AI, DevRel]
+  venues: NeurIPS
+  date: 2025-12-31
+  url: https://www.youtube.com/watch?v=U1qD-0f6Mtg&list=PLgyaY0hJJIda2Dn1nt-0jrydHM0g6G6TE
+  description: a really random panel I spoke at at neurips
 - title: Winning, AI Eng, Devtools Angels, and DevRel
   slug: scaling-devtools-3
   tags: [AI, DevRel]
